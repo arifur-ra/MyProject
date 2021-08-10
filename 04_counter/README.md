@@ -4,4 +4,4 @@ This project is about the counting, when you click the button it increase and de
 
 ## Technology used:
 
-### HTML5 CSS3 React JavaScript,
+### HTML5, CSS3, React, JavaScript ES6,

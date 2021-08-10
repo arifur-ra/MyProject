@@ -4,4 +4,4 @@ This project is about the color, when you click the button it show you different
 
 ## Technology used:
 
-### HTML5 CSS3 React JavaScript,
+### HTML5, CSS3, React, JavaScript ES6,
