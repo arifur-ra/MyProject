@@ -284,7 +284,7 @@ nav {
   .links a {
     background: transparent;
     color: var(--clr-red-dark);
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     text-transform: capitalize;
     letter-spacing: var(--spacing);
     display: block;
@@ -346,7 +346,7 @@ header {
 }
 footer {
   background: var(--clr-grey-1);
-  padding: 5rem 1rem;
+  padding: 3rem 1rem;
 }
 footer p {
   color: var(--clr-white);
