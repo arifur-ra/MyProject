@@ -4,7 +4,9 @@
 - CSS3
 - HTML5
 - FrontAwesome
-  ...
+
+  ***
+
 - React
 - NodeJS
 - MongoDB
