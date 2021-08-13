@@ -1,7 +1,7 @@
-# React Simple Counter Project.
+# Simple Counter Project.
 
 This project is about the counting, when you click the button it increase and decrease the Number.
 
 ## Technology used:
 
-### HTML5, CSS3, React, JavaScript ES6,
+### HTML5, CSS3, JavaScript ES6,
