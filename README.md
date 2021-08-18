@@ -13,11 +13,11 @@
 
 ## Project List
 
-- [Color Flipper](https://arifur-ra.github.io/MyProject/03_colorFliper/index.html)
-- [Counter](https://arifur-ra.github.io/MyProject/04_counter/index.html)
-- [Reviews](https://arifur-ra.github.io/MyProject/05_reviews/index.html)
-- [Navbar](https://arifur-ra.github.io/MyProject/06_navbar/index.html)
-- [SideBar](https://arifur-ra.github.io/MyProject/07_sidebar/index.html)
+- [Color Flipper](https://arifur-ra.github.io/MyProject/JavaScript/03_colorFliper/index.html)
+- [Counter](https://arifur-ra.github.io/MyProject/JavaScript/04_counter/index.html)
+- [Reviews](https://arifur-ra.github.io/MyProject/JavaScript/05_reviews/index.html)
+- [Navbar](https://arifur-ra.github.io/MyProject/JavaScript/06_navbar/index.html)
+- [SideBar](https://arifur-ra.github.io/MyProject/JavaScript/07_sidebar/index.html)
 - [Modal](https://arifur-ra.github.io/MyProject/08_modal/index.html)
 - [Questions](https://arifur-ra.github.io/MyProject/09_questions-project/index.html)
 - [Menu-Item](https://arifur-ra.github.io/MyProject/10_menu-item/index.html)
